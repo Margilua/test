@@ -8,9 +8,13 @@ button{
 	color:#fff;
 }
 #caixa {
-	width:500px;
+	width:400px;
 	height:200px;
 	background-color:#FFE4C4;
 	padding:20px;
-	
+	text-align:center,
+}
+h2{
+	color:#fff;
+	text-shadow: 2px 2px #000;
 }
