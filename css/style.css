@@ -1,13 +1,16 @@
 *{
 font-family:'Roboto', sans-serif; 
 }
-article{
+
+button{
+	border-radius:3px;
+	background-color:coral;
+	color:#fff;
+}
+#caixa {
+	width:500px;
+	height:200px;
 	background-color:#FFE4C4;
-	padding-top:20px;
-	padding-bottom:20px;
-	margin-left:20px;
-	margin-right:20px;
-	padding-left:20px;
-	width:800px;
-	padding-right:20px;
+	padding:20px;
+	
 }
